@@ -1,0 +1,1 @@
+# caravanofriches-slot-automation
