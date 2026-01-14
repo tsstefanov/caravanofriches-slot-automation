@@ -1,0 +1,17 @@
+{
+  "name": "caravanofriches-slot-automation",
+  "version": "1.0.0",
+  "description": "Automation tests for Carravan of Riches slot game",
+  "main": "index.js",
+  "scripts": {
+   "test": "npx playwright test",
+   "test:show-report": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "Tsvetan Stefanov",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}
